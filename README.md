@@ -1,5 +1,5 @@
 # Desafio-Git-GitHub
 
-## Projeto do desafio de Git/GitHub
+<p align="center">Projeto do desafio de Git/GitHub</p>
 
 
