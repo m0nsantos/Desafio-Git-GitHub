@@ -1,0 +1,5 @@
+git clone
+git Status
+git sdd . 
+git commit -m ""
+git push origin main
